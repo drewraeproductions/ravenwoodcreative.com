@@ -85,7 +85,7 @@ export default function HomePage() {
               marginBottom: "1.5rem",
             }}
           >
-            Ravenwood Creative · Utah Video Production
+            Ravenwood Creative · National Video Production
           </p>
 
           {/* Headline */}
@@ -114,7 +114,7 @@ export default function HomePage() {
             }}
           >
             We craft cinematic customer case study videos, event coverage, and
-            social content that helps Utah brands grow. 12 years of production
+            social content that helps brands grow — anywhere in the country. 12 years of production
             experience behind every frame.
           </p>
 

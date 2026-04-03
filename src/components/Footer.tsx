@@ -112,7 +112,7 @@ export default function Footer() {
                   (435) 592-3972
                 </a>
                 <span style={{ color: "rgba(255,255,255,0.3)", fontSize: "0.8rem" }}>
-                  Kearns, Utah
+                  Available Nationwide
                 </span>
               </div>
             </div>
@@ -134,7 +134,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Ravenwood Creative LLC. All rights reserved.
           </p>
           <p style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
-            Utah · 12 years of cinematic production
+            Nationwide · 12 years of cinematic production
           </p>
         </div>
       </div>

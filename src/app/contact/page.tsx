@@ -20,7 +20,7 @@ const contactInfo = [
   },
   {
     label: "Location",
-    value: "Kearns, Utah (Salt Lake City area)",
+    value: "Available Nationwide (Remote-Friendly)",
     href: null,
   },
 ];

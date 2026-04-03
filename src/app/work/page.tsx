@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Our Work",
   description:
-    "Video production portfolio from Ravenwood Creative — case studies, event coverage, and social content for Utah businesses and beyond.",
+    "Video production portfolio from Ravenwood Creative — case studies, event coverage, and social content for brands across the country.",
 };
 
 const categories = ["All", "Case Study", "Events", "Social", "Ads"];
@@ -14,7 +14,7 @@ const placeholderProjects = [
     id: 1,
     category: "Case Study",
     title: "Customer Success Story",
-    client: "Utah SaaS Brand",
+    client: "SaaS Brand",
     duration: "90 sec",
     desc: "Narrative interview + b-roll showcasing a customer's growth journey.",
     aspect: "16/9",
@@ -54,7 +54,7 @@ const placeholderProjects = [
     id: 5,
     category: "Ads",
     title: "Meta Ad Campaign",
-    client: "Utah Retailer",
+    client: "National Retailer",
     duration: "15 sec",
     desc: "High-converting paid social creative — 3.2x ROAS.",
     aspect: "1/1",
@@ -146,7 +146,7 @@ export default function WorkPage() {
               }}
             >
               A curated look at case studies, events, and social content
-              produced for Utah businesses and beyond.
+              produced for brands coast to coast.
             </p>
           </div>
         </div>

@@ -9,14 +9,14 @@ export const metadata: Metadata = {
     template: "%s | Ravenwood Creative",
   },
   description:
-    "Utah-based video production studio specializing in customer case study videos, corporate events, social media content, and paid ad campaigns. 12 years of cinematic storytelling.",
+    "National video production studio specializing in customer case study videos, corporate events, social media content, and paid ad campaigns. 12 years of cinematic storytelling.",
   keywords: [
-    "video production Utah",
+    "video production",
     "customer case study video",
     "corporate video production",
     "social media video",
     "paid ads video",
-    "Salt Lake City video production",
+    "national video production",
   ],
   openGraph: {
     type: "website",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     siteName: "Ravenwood Creative",
     title: "Ravenwood Creative — Video Production & Story-Driven Content",
     description:
-      "Utah-based video production studio specializing in customer case study videos, corporate events, and social content.",
+      "National video production studio specializing in customer case study videos, corporate events, and social content.",
   },
 };
 

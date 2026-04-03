@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Services & Packages",
   description:
-    "Video production packages from Ravenwood Creative — case study videos, event coverage, social content, and paid ads. Clear pricing, Utah-based team.",
+    "Video production packages from Ravenwood Creative — case study videos, event coverage, social content, and paid ads. Clear pricing, available nationwide.",
 };
 
 const packages = [
